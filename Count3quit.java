@@ -4,6 +4,7 @@ public class Count3quit{
 	public static void main(String[] args){
 		KidCircle cir = new KidCircle(500);
 		
+		int gth;
 		int count3_value=0;
 		Kid k = cir.first;
 		while(cir.count>1){
