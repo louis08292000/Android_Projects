@@ -1,7 +1,7 @@
 import java.io.*;
 public class RepesentMkdir{
 	public static void main(String[] args){
-		File  f = new File("C:/Users/ÂE¼y"); 
+		File  f = new File("C:/Users/username"); 
 		tree(f,0);
 	}
 
